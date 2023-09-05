@@ -1,7 +1,12 @@
+# Local Site Directories
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-.bundle/
-vendor/
-**/.DS_Store
+
+# Ruby Gems
+.bundle
+Gemfile.lock
+
+# Log Files
+*.log
